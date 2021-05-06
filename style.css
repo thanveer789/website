@@ -8,7 +8,7 @@
   text-align: left;
 }
 
-h3 {
+.h3 {
    color: #000000;
    font-size:18px;
    text-align: left;
@@ -30,24 +30,20 @@ img {
   text-transform: uppercase;
   display: inline-block;
 }
-ul {
+.ul {
   list-style-type:none;
   padding:0;
   margin:0;
   border:1 px;
-  display:flex;
-  flex direction:row;
+  display: flex;
+  flex direction: row;
   flex wrap:no wrap;
   justify-content:flex-end;
    
 }
-li{
+.li{
   border:1px solid black;
   margin:0.5em;
   padding:0.5em;
   
 }  
-
-  
-}
-}
