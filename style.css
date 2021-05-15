@@ -10,6 +10,8 @@
   margin:0 110px;
 }
 
+
+body {overflow: hidden; }
  .header-left>h1{
    
     font-family: Rubik;
@@ -82,7 +84,7 @@ border-bottom-right-radius: 0;
     
   }
 
-  .socialmedia a:hover{
+  .socialmedia a{
     color:blanchedalmond;
   
   }
